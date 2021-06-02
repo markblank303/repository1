@@ -1,6 +1,6 @@
 # Stock Market Prediction
 
-
+![Capture](https://user-images.githubusercontent.com/75405590/120405085-015c2180-c305-11eb-9193-89674861be1d.JPG)
 
 David Alberghini, Mark Blankenship, John Mowry, & Bryce Wilkinson
 
